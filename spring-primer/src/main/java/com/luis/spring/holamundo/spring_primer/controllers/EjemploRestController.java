@@ -13,7 +13,7 @@ import com.luis.spring.holamundo.spring_primer.models.dto.dto;
 @RequestMapping("/api")
 
 public class EjemploRestController {
-@GetMapping(path = "/detalles_info2")
+@GetMapping(path = "/detalles_info2_paramostraraandres")
 
 
 

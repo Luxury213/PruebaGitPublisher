@@ -9,7 +9,7 @@ import com.luis.spring.holamundo.spring_primer.models.Empleados;
 
 @Controller
 public class EjemploController {
-@GetMapping("/detalles_info23218312")
+@GetMapping("/detalles_info_cambios_paramostaraAndres")
 
 
 public String info (Model model) {
